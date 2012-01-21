@@ -6,3 +6,7 @@ gemfile:
   - Gemfile
   - Gemfile.rails3.0
   - Gemfile.rails3.1
+
+branches:
+  only:
+    - 2-3-stable
